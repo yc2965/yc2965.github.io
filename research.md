@@ -33,7 +33,7 @@ Stably stratified turbulence is difficult to represent in NWP and climate models
 Eddy-covariance measurements often rely on Taylor’s hypothesis to convert single-point temporal measurements into spatial spectra. My work shows Taylor’s hypothesis breaks down for small eddies in the atmospheric surface layer and provides a correction that can improve estimates of turbulent spectra and surface fluxes.
 
 - [Cheng et al. (2017), *Geophysical Research Letters*](https://doi.org/10.1002/2017GL073499)
-[Global Atmospheric Observations May Need Tweaking for Turbulence](https://eos.org/research-spotlights/global-atmospheric-observations-may-need-tweaking-for-turbulence)
+AGU EOS: [Global Atmospheric Observations May Need Tweaking for Turbulence](https://eos.org/research-spotlights/global-atmospheric-observations-may-need-tweaking-for-turbulence)
 
 ### 2.2 Alternate scaling for turbulence cospectra  
 High-frequency spectral corrections in eddy-covariance fluxes require an assumed cospectral shape. I showed that a **−2 power-law** scaling is theoretically valid and can better approximate observations than the commonly assumed −7/3 scaling under stable stratification—improving flux corrections, especially for CO₂.
@@ -48,6 +48,8 @@ High-frequency spectral corrections in eddy-covariance fluxes require an assumed
 Land radiative management (e.g., increasing albedo to cool) is often proposed as a climate adaptation/geoengineering strategy. My work shows that LRM can **warm surrounding regions** via unintended impacts on precipitation and soil moisture—highlighting a mechanism by which soil moisture influences precipitation efficiency and re-evaporation.
 
 - [Cheng & McColl (2024), *Geophysical Research Letters*](https://doi.org/10.1029/2024GL112433)
+The Guardian: [Why cooling white roofs cause neighbours to swelter](https://www.theguardian.com/news/2024/dec/05/weatherwatch-why-cooling-white-roofs-cause-neighbours-to-swelter)
+AGU EOS: [Seemingly Simple Climate Adaptation Strategy Could Backfire](https://eos.org/research-spotlights/seemingly-simple-climate-adaptation-strategy-could-backfire)
 
 ### 3.2 Darker land surfaces can become wetter via mesoscale circulations  
 Albedo anomalies (e.g., from land-use change) can trigger mesoscale circulations that produce non-local hydroclimate responses. This work shows how dynamical feedbacks can cause anomalously darker surfaces to become wetter under certain conditions.
