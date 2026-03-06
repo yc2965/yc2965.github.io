@@ -51,10 +51,8 @@ Land radiative management (e.g., increasing albedo to cool) is often proposed as
 The Guardian: [Why cooling white roofs cause neighbours to swelter](https://www.theguardian.com/news/2024/dec/05/weatherwatch-why-cooling-white-roofs-cause-neighbours-to-swelter)
 AGU EOS: [Seemingly Simple Climate Adaptation Strategy Could Backfire](https://eos.org/research-spotlights/seemingly-simple-climate-adaptation-strategy-could-backfire)
 
-### 3.2 Darker land surfaces can become wetter via mesoscale circulations  
-Albedo anomalies (e.g., from land-use change) can trigger mesoscale circulations that produce non-local hydroclimate responses. This work shows how dynamical feedbacks can cause anomalously darker surfaces to become wetter under certain conditions.
-
-- [Cheng, Hu & McColl (2023), *Geophysical Research Letters*](https://doi.org/10.1029/2023GL104137)
+### 3.2 Soil Moisture Control of Precipitation Re-evaporation
+Soil moisture heterogeneity can induce mesoscale circulations and thus trigger precipitation due to differential heating between dry and wet surfaces. Previous studies suggested that decreasing soil moisture in the dry surface enhances the mesoscale circulation and increases  precipitation over the dry domain. Cheng et al. [2021, JAS](https://doi.org/10.1175/JAS-D-21-0059.1) showed that when soil moisture is small in the dry domain, drier soils ultimately lead to less precipitation in the dry domain since precipitation re-evaporation increases, meaning proportionally less water vapor over the dry domain becomes surface precipitation. This work highlights an important new mechanism by which soil moisture controls precipitation, through its impact on precipitation re-evaporation and efficiency.
 
 ### 3.3 Roughness-driven thermally direct mesoscale circulations  
 Changes in surface roughness (e.g., deforestation, urbanization, wind farms) can dynamically trigger convergence and circulation changes. I identified a mechanism where roughness anomalies drive thermally direct mesoscale circulations and precipitation responses through impacts on turbulent mixing and surface temperature.
