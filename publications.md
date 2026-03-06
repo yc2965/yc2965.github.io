@@ -5,7 +5,7 @@ title: Publications
 
 # Publications
 
-## First- and Lead-Author Journal Articles
+## First-Author Journal Articles
 
 1. **Cheng, Y.**, & McColl, K. (2024).  
    Unexpected warming from land radiative management.  
