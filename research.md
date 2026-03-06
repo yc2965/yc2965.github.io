@@ -7,7 +7,7 @@ My research has focused on advancing turbulence theory and modeling, investigati
 ## 1) New turbulence theories and modeling techniques for weather and climate models
 
 ### 1.1 New velocity/temperature log-law for atmospheric boundary layers  
-Editors' Suggestion at Physical Review Fluids
+**Editors' Suggestion** at Physical Review Fluids
 
 In global weather and climate models, the exchange of momentum, heat, moisture and carbon dioxide between the Earth’s surface and the atmosphere is constrained by turbulent motion of the air and has been described by a flux-gradient relationship named Monin-Obukhov similarity theory (MOST) since 1954. However, it has long been recognized that MOST cannot correctly capture the turbulent flux transport when the air is significantly cooled or heated by the land surface. A fundamental assumption of MOST is that velocity and temperature near the Earth’s surface do not follow a logarithmic profile due to buoyancy effects. In contrast to MOST, [Cheng et al. 2021, PRF](https://doi.org/10.1103/PhysRevFluids.6.034606) and [Cheng et al. 2023](https://doi.org/10.1103/PhysRevFluids.8.114602), PRF found that buoyancy does not change the logarithmic nature of velocity and temperature profiles but instead modifies the slope of the log law. The proposed log law overcomes the failure of MOST in extreme stability conditions. The proposed logarithmic profile can serve as an alternative to MOST, possibly leading to more realistic predictions of near-surface air temperature, especially in heat waves and droughts, as well as nighttime and winter climate and air quality, especially in polar regions.
 
