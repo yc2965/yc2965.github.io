@@ -1,5 +1,3 @@
-# Yu Cheng
-
 **Assistant Professor**  
 Department of Atmospheric and Oceanic Sciences  
 Fudan University  
