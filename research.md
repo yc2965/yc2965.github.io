@@ -33,6 +33,7 @@ Stably stratified turbulence is difficult to represent in NWP and climate models
 Eddy-covariance measurements often rely on Taylor’s hypothesis to convert single-point temporal measurements into spatial spectra. My work shows Taylor’s hypothesis breaks down for small eddies in the atmospheric surface layer and provides a correction that can improve estimates of turbulent spectra and surface fluxes.
 
 - [Cheng et al. (2017), *Geophysical Research Letters*](https://doi.org/10.1002/2017GL073499)
+[Global Atmospheric Observations May Need Tweaking for Turbulence[(https://eos.org/research-spotlights/global-atmospheric-observations-may-need-tweaking-for-turbulence)
 
 ### 2.2 Alternate scaling for turbulence cospectra  
 High-frequency spectral corrections in eddy-covariance fluxes require an assumed cospectral shape. I showed that a **−2 power-law** scaling is theoretically valid and can better approximate observations than the commonly assumed −7/3 scaling under stable stratification—improving flux corrections, especially for CO₂.
