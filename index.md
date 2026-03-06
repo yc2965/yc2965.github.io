@@ -3,7 +3,6 @@ Department of Atmospheric and Oceanic Sciences
 Fudan University  
 
 Email: yu_cheng@fudan.edu.cn  
-[Harvard Profile](https://yucheng.scholars.harvard.edu/bio)
 [Google Scholar](https://scholar.google.com/citations?user=hAJOxTkAAAAJ&hl=en)
 
 ---
