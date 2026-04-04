@@ -7,12 +7,15 @@ title: Publications
 
 ## First-Author Journal Articles
 
+1. **Cheng, Y.**, McColl, K., Mickley, L., & Feng, X. (2026).  
+   Large overestimation of projected western U.S. wildfire burned forest area with warming.  
+   *AGU Advances* (in press)  
+   
 1. **Cheng, Y.**, & McColl, K. (2024).  
    Unexpected warming from land radiative management.  
    *Geophysical Research Letters*, 51(22).  
    [DOI](https://doi.org/10.1029/2024GL112433)  
    *Research Highlight in GRL and AGU’s EOS; featured in The Guardian.*
-
 
 1. **Cheng, Y.**, Grachev, A., & van Heerwaarden, C. (2023).  
    Logarithmic profiles of velocity in stably stratified atmospheric boundary layers.  
