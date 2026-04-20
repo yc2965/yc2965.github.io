@@ -9,7 +9,7 @@ title: Publications
 
 1. **Cheng, Y.**, McColl, K., Mickley, L., & Feng, X. (2026).  
    Large overestimation of projected western U.S. wildfire burned forest area with warming.  
-   *AGU Advances*, 7(2).
+   *AGU Advances*, 7(2).  
    [DOI](https://doi.org/10.1029/2026AV002350)
    
 1. **Cheng, Y.**, & McColl, K. (2024).  
