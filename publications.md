@@ -64,7 +64,7 @@ title: Publications
     Failure of Taylor's hypothesis in the atmospheric surface layer and its correction for eddy-covariance measurements.  
     *Geophysical Research Letters*, 44(9).  
     [DOI](https://doi.org/10.1002/2017GL073499)  
-    *Research Highlight in GRL and AGU’s EOS.*
+    *Research Highlight in GRL and AGU’s EOS [Global Atmospheric Observations May Need Tweaking for Turbulence](https://eos.org/research-spotlights/global-atmospheric-observations-may-need-tweaking-for-turbulence).*
 
 
 ---
