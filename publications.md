@@ -17,7 +17,7 @@ title: Publications
    *Geophysical Research Letters*, 51(22).  
    [DOI](https://doi.org/10.1029/2024GL112433)  
    **Research Highlight** in GRL and AGU’s EOS [Seemingly Simple Climate Adaptation Strategy Could Backfire](https://eos.org/research-spotlights/seemingly-simple-climate-adaptation-strategy-could-backfire);  
-   featured in The Guardian [Why cooling white roofs cause neighbours to swelter](https://www.theguardian.com/news/2024/dec/05/weatherwatch-why-cooling-white-roofs-cause-neighbours-to-swelter).*
+   featured in The Guardian [Why cooling white roofs cause neighbours to swelter](https://www.theguardian.com/news/2024/dec/05/weatherwatch-why-cooling-white-roofs-cause-neighbours-to-swelter).
 
 1. **Cheng, Y.**, Grachev, A., & van Heerwaarden, C. (2023).  
    Logarithmic profiles of velocity in stably stratified atmospheric boundary layers.  
@@ -64,7 +64,7 @@ title: Publications
     Failure of Taylor's hypothesis in the atmospheric surface layer and its correction for eddy-covariance measurements.  
     *Geophysical Research Letters*, 44(9).  
     [DOI](https://doi.org/10.1002/2017GL073499)  
-    **Research Highlight** in GRL and AGU’s EOS [Global Atmospheric Observations May Need Tweaking for Turbulence](https://eos.org/research-spotlights/global-atmospheric-observations-may-need-tweaking-for-turbulence).*
+    **Research Highlight** in GRL and AGU’s EOS [Global Atmospheric Observations May Need Tweaking for Turbulence](https://eos.org/research-spotlights/global-atmospheric-observations-may-need-tweaking-for-turbulence).
 
 
 ---
