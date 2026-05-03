@@ -16,7 +16,8 @@ title: Publications
    Unexpected warming from land radiative management.  
    *Geophysical Research Letters*, 51(22).  
    [DOI](https://doi.org/10.1029/2024GL112433)  
-   *Research Highlight in GRL and AGU’s EOS; featured in The Guardian.*
+   *Research Highlight in GRL and AGU’s EOS [Seemingly Simple Climate Adaptation Strategy Could Backfire](https://eos.org/research-spotlights/seemingly-simple-climate-adaptation-strategy-could-backfire);
+   featured in The Guardian.*
 
 1. **Cheng, Y.**, Grachev, A., & van Heerwaarden, C. (2023).  
    Logarithmic profiles of velocity in stably stratified atmospheric boundary layers.  
