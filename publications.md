@@ -12,6 +12,7 @@ title: Publications
    *AGU Advances*, 7(2).  
    [DOI](https://doi.org/10.1029/2026AV002350)  
    **Research Highlight** in journal and AGU’s EOS [How Much Will Western Wildfires Worsen Under Warming?](https://eos.org/research-spotlights/how-much-will-western-wildfires-worsen-under-warming)  
+   This Week from AGU: [Western U.S. wildfire projections may be greatly overestimated](https://news.agu.org/4-23-2026-future-wildfires-may-burn-less-of-the-american-west-than-expected/)  
    
 1. **Cheng, Y.**, & McColl, K. (2024).  
    Unexpected warming from land radiative management.  
