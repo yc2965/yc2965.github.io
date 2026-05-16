@@ -11,7 +11,7 @@ title: Publications
    Large overestimation of projected western U.S. wildfire burned forest area with warming.  
    *AGU Advances*, 7(2).  
    [DOI](https://doi.org/10.1029/2026AV002350)  
-   **Research Highlight** in AGU’s EOS [How Much Will Western Wildfires Worsen Under Warming?](https://eos.org/research-spotlights/how-much-will-western-wildfires-worsen-under-warming);  
+   **Research Highlight** in AGU’s EOS [How Much Will Western Wildfires Worsen Under Warming?](https://eos.org/research-spotlights/how-much-will-western-wildfires-worsen-under-warming)  
    
 1. **Cheng, Y.**, & McColl, K. (2024).  
    Unexpected warming from land radiative management.  
