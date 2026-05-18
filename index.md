@@ -14,7 +14,7 @@ Email: yu_cheng@fudan.edu.cn<br>
 </div>
 
 <div>
-<img src="/YuCheng_photo.jpg" alt="Yu Cheng" width="240"
+<img src="/YuCheng_photo.jpg" alt="Yu Cheng" width="180"
 style="border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 </div>
 
