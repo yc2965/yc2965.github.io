@@ -1,3 +1,7 @@
+
+<img src="/YuCheng_photo.jpg" alt="Yu Cheng" width="220"
+style="float:right; margin-left:25px; margin-bottom:15px; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+
 Assistant Professor  
 Department of Atmospheric and Oceanic Sciences  
 Fudan University  
