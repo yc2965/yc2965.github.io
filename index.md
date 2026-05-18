@@ -2,14 +2,14 @@
 
 <div style="flex:1;">
 
-Assistant Professor  
-Department of Atmospheric and Oceanic Sciences  
-Fudan University  
+Assistant Professor<br>
+Department of Atmospheric and Oceanic Sciences<br>
+Fudan University
 
-<br>
+<br><br>
 
-Email: yu_cheng@fudan.edu.cn  
-[Google Scholar](https://scholar.google.com/citations?user=hAJOxTkAAAAJ&hl=en)
+Email: yu_cheng@fudan.edu.cn<br>
+<a href="https://scholar.google.com/citations?user=hAJOxTkAAAAJ&hl=en">Google Scholar</a>
 
 </div>
 
