@@ -1,13 +1,24 @@
+<div style="display:flex; align-items:flex-start; justify-content:space-between; gap:40px;">
 
-<img src="/YuCheng_photo.jpg" alt="Yu Cheng" width="220"
-style="float:right; margin-left:25px; margin-bottom:15px; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="flex:1;">
 
 Assistant Professor  
 Department of Atmospheric and Oceanic Sciences  
 Fudan University  
 
+<br>
+
 Email: yu_cheng@fudan.edu.cn  
 [Google Scholar](https://scholar.google.com/citations?user=hAJOxTkAAAAJ&hl=en)
+
+</div>
+
+<div>
+<img src="/YuCheng_photo.jpg" alt="Yu Cheng" width="240"
+style="border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+</div>
+
+</div>
 
 ---
 
