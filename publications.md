@@ -6,7 +6,12 @@ title: Publications
 # Publications
 
 ## First-Author Journal Articles
+1. **Cheng, Y.**, & Liu, T. (2026).  
+   Generative AI for subgrid turbulence in large-eddy simulations: A priori analysis.  
+   *Physical Review Fluids*.  
+   [DOI](https://doi.org/10.1103/vb6j-f876)  
 
+   
 1. **Cheng, Y.**, McColl, K., Mickley, L., & Feng, X. (2026).  
    Large overestimation of projected western U.S. wildfire burned forest area with warming.  
    *AGU Advances*, 7(2).  
