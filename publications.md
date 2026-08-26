@@ -12,7 +12,7 @@ title: Publications
    
 1. **Cheng, Y.**, & Liu, T. (2026).  
    Generative AI for subgrid turbulence in large-eddy simulations: A priori analysis.  
-   *Physical Review Fluids*.  
+   *Physical Review Fluids*, 11(8).    
    [DOI](https://doi.org/10.1103/vb6j-f876)  
 
    
