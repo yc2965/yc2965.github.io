@@ -13,7 +13,7 @@ Ph.D. in Fluid Mechanics
 Institute of Mechanics, Chinese Academy of Sciences  
 
 **Kexin Wang**  
-Ph.D. in Applied Meteorology
+Ph.D. in Applied Meteorology  
 Nanjing University of Information Science & Technology
 
 ---
