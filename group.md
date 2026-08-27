@@ -16,8 +16,6 @@ Institute of Mechanics, Chinese Academy of Sciences
 Ph.D. in Applied Meteorology
 Nanjing University of Information Science & Technology
 
-*Additional postdoctoral positions are available — see the Opportunities page.*
-
 ---
 
 ### Ph.D. Students
