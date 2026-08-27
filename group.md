@@ -11,7 +11,10 @@ title: Group Members
 **Yi Chen**  
 Ph.D. in Fluid Mechanics  
 Institute of Mechanics, Chinese Academy of Sciences  
-Email: yi_chen@fudan.edu.cn
+
+**Kexin Wang**  
+Ph.D. in Applied Meteorology
+Nanjing University of Information Science & Technology
 
 *Additional postdoctoral positions are available — see the Opportunities page.*
 
