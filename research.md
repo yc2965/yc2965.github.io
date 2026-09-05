@@ -23,6 +23,12 @@ In global weather and climate models, the exchange of momentum, heat, moisture a
   </figcaption>
 </figure>
 
+
+
+
+
+
+
 ### 1.2 Deep learning and generative AI for subgrid-scale turbulence modeling  
 The large-eddy simulation (LES) technique only resolves filtered eddy motions and parameterizes the impact of subgrid-scale (SGS) turbulence as a function of the resolved flow. Cheng et al. ([2022, JAMES](https://doi.org/10.1029/2021MS002847)) applied supervised deep neural networks (DNNs) to learn SGS stresses from a set of neighboring coarse-grained velocity from direct numerical simulations across stability conditions from near neutral to very unstable in the atmospheric boundary layer. The DNN model can capture both SGS stresses and dissipation, which is challenging for traditional SGS models like the Smagorinsky model.
 
