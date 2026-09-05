@@ -9,7 +9,7 @@ My research has focused on advancing turbulence theory and modeling, investigati
 ### 1.1 New velocity/temperature log-law for atmospheric boundary layers  
 **Editors' Suggestion** at Physical Review Fluids
 
-In global weather and climate models, the exchange of momentum, heat, moisture and carbon dioxide between the Earth’s surface and the atmosphere is constrained by turbulent motion of the air and has been described by a flux-gradient relationship named Monin-Obukhov similarity theory (MOST) since 1954. However, it has long been recognized that MOST cannot correctly capture the turbulent flux transport when the air is significantly cooled or heated by the land surface. A fundamental assumption of MOST is that velocity and temperature near the Earth’s surface do not follow a logarithmic profile due to buoyancy effects. In contrast to MOST, Cheng et al. ([2021, PRF](https://doi.org/10.1103/PhysRevFluids.6.034606)) and Cheng et al. ([2023, PRF](https://doi.org/10.1103/PhysRevFluids.8.114602)) found that buoyancy does not change the logarithmic nature of velocity and temperature profiles but instead modifies the slope of the log law. The proposed log law overcomes the failure of MOST in extreme stability conditions. The proposed logarithmic profile can serve as an alternative to MOST, possibly leading to more realistic predictions of near-surface air temperature, especially in heat waves and droughts, as well as nighttime and winter climate and air quality, especially in polar regions.
+In global weather and climate models, the exchange of momentum, heat, moisture and carbon dioxide between the Earth’s surface and the atmosphere is constrained by turbulent motion of the air and has been described by a flux-gradient relationship named Monin-Obukhov similarity theory (MOST) since 1954. However, it has long been recognized that MOST cannot correctly capture the turbulent flux transport when the air is significantly cooled or heated by the land surface. A fundamental assumption of MOST is that velocity and temperature near the Earth’s surface do not follow a logarithmic profile due to buoyancy effects. In contrast to MOST, Cheng et al. ([2021, PRF](https://doi.org/10.1103/PhysRevFluids.6.034606)) and Cheng et al. ([2023, PRF](https://doi.org/10.1103/PhysRevFluids.8.114602)) found that **buoyancy does not change the logarithmic nature** of velocity and temperature profiles but instead modifies the slope of the log law. The proposed log law overcomes the failure of MOST in extreme stability conditions. The proposed logarithmic profile can serve as an alternative to MOST, possibly leading to more realistic predictions of near-surface air temperature, especially in heat waves and droughts, as well as nighttime and winter climate and air quality, especially in polar regions.
 
 <figure style="text-align: center; margin: 1.5rem auto;">
   <img
@@ -28,12 +28,6 @@ In global weather and climate models, the exchange of momentum, heat, moisture a
   >
 </figure>
 
-
-
-
-
-
-
 ### 1.2 Deep learning and generative AI for subgrid-scale turbulence modeling  
 The large-eddy simulation (LES) technique only resolves filtered eddy motions and parameterizes the impact of subgrid-scale (SGS) turbulence as a function of the resolved flow. Cheng et al. ([2022, JAMES](https://doi.org/10.1029/2021MS002847)) applied supervised deep neural networks (DNNs) to learn SGS stresses from a set of neighboring coarse-grained velocity from direct numerical simulations across stability conditions from near neutral to very unstable in the atmospheric boundary layer. The DNN model can capture both SGS stresses and dissipation, which is challenging for traditional SGS models like the Smagorinsky model.
 
@@ -45,7 +39,7 @@ The large-eddy simulation (LES) technique only resolves filtered eddy motions an
   >
 </figure>
 
-The non-uniqueness of SGS stresses arises naturally from the coarse-graining of nonlinear dynamical systems. The SGS stresses are not uniquely determined by the resolved flow field due to the influence of unresolved fluctuations. In addition, stochastic behavior may also emerge as an intrinsic property of turbulent flows. Cheng et al. ([2026, PRF](https://doi.org/10.1103/vb6j-f876)) developed a generative AI framework, conditional diffusion models (CDM), to reconstruct subgrid-scale stresses in large-eddy simulations. By learning conditional distributions rather than pointwise values, this generative framework introduces a fundamentally new way for stochastic SGS turbulence modeling.
+The non-uniqueness of SGS stresses arises naturally from the coarse-graining of nonlinear dynamical systems. The SGS stresses are not uniquely determined by the resolved flow field due to the influence of unresolved fluctuations. In addition, stochastic behavior may also emerge as an intrinsic property of turbulent flows. Cheng et al. ([2026, PRF](https://doi.org/10.1103/vb6j-f876)) developed a **generative AI framework, conditional diffusion models (CDM)**, to reconstruct subgrid-scale stresses in large-eddy simulations. By **learning conditional distributions** rather than pointwise values, this generative framework introduces a fundamentally new way for stochastic SGS turbulence modeling.
 
 <figure style="text-align: center; margin: 1.5rem auto;">
   <img
@@ -72,7 +66,7 @@ Stably stratified turbulence in the ABL is very difficult to be represented in n
 ### 2.1 Correcting Taylor’s frozen turbulence hypothesis for surface-layer turbulence  
 **AGU EOS research spotlight**: [Global Atmospheric Observations May Need Tweaking for Turbulence](https://eos.org/research-spotlights/global-atmospheric-observations-may-need-tweaking-for-turbulence)
 
-Global eddy-covariance measurements of atmospheric surface fluxes of momentum, heat, water vapor and CO2 fluxes rely on Taylor’s frozen turbulence hypothesis, which transforms single-point temporal observations into spatial spectrum. Cheng et al. ([2017, GRL](https://doi.org/10.1002/2017GL073499)) found the relationship between eddy size and advection velocity and showed that small eddies lose their coherent properties due to turbulent diffusion and advect at smaller velocities than large eddies, i.e., Taylor’s hypothesis does not work for small eddies. The study also proposed a correction for single-point measurements of temporal velocity and scalars to improve estimates of surface turbulent energy and CO2 fluxes.
+Global eddy-covariance measurements of atmospheric surface fluxes of momentum, heat, water vapor and CO2 fluxes rely on Taylor’s frozen turbulence hypothesis, which transforms single-point temporal observations into spatial spectrum. Cheng et al. ([2017, GRL](https://doi.org/10.1002/2017GL073499)) found the relationship between eddy size and advection velocity and showed that small eddies lose their coherent properties due to turbulent diffusion and advect at smaller velocities than large eddies, i.e., **Taylor’s hypothesis does not work for small eddies**. The study also proposed a correction for single-point measurements of temporal velocity and scalars to improve estimates of surface turbulent energy and CO2 fluxes.
 
 <figure style="text-align: center; margin: 1.5rem auto;">
   <img
