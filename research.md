@@ -85,7 +85,13 @@ Global eddy-covariance measurements of atmospheric surface fluxes of momentum, h
 ### 2.2 Alternate scaling for turbulence cospectra  
 An assumed cospectral shape is required for high-frequency spectral corrections of turbulent fluxes of momentum, heat, water vapor and CO2 fluxes in global eddy-covariance measurements. Cheng et al. ([2020, BLM](https://doi.org/10.1007/s10546-020-00545-6)) showed that a -2 power-law scaling for turbulence cospectra is valid within dimensional analysis and is a better approximation than a typically assumed -7/3 scaling across various field measurements in stably stratified ABL at high Reynolds number. The proposed -2 scaling should improve global eddy-covariance measurement of surface fluxes especially for CO2 flux that is quite sensitive to the cospectra shape.
 
-
+<figure style="text-align: center; margin: 1.5rem auto;">
+  <img
+    src="/images/turbulence-cospectra.jpg"
+    alt="Comparison between MOST and the stratification-dependent log law"
+    style="width: 100%; max-width: 750px;"
+  >
+</figure>
 ---
 
 ## 3) New interaction mechanisms between the atmosphere and heterogeneous land surface
@@ -133,3 +139,10 @@ Deforestation, urbanization and construction of wind farms can change the land s
 **AGU EOS research spotlight**: [How Much Will Western Wildfires Worsen Under Warming?](https://eos.org/research-spotlights/how-much-will-western-wildfires-worsen-under-warming)
 
 Cheng et al. ([2026, AGU Advances](https://doi.org/10.1029/2026AV002350)) shows that widely cited projections of wildfire risk in western U.S. forests may be substantially overestimated under future warming. Many prior studies rely on vapor pressure deficit (VPD)—a measure of atmospheric dryness—as a proxy for fuel dryness, leading to projections of dramatic increases in burned area. We demonstrate that while VPD correlates well with historical fire activity, it exaggerates future drying because it is not a physically reliable measure of fuel dryness under climate change. Using soil moisture—a more direct proxy for fuel dryness—we find that burned forest area is likely to increase much more modestly, by about a factor of 2–3 by the end of the century rather than an order-of-magnitude or more. These results highlight the importance of properly representing land–atmosphere interactions when assessing future wildfire risk.
+<figure style="text-align: center; margin: 1.5rem auto;">
+  <img
+    src="/images/wildfire-soilmoisture-VPD.jpg"
+    alt="Comparison between MOST and the stratification-dependent log law"
+    style="width: 100%; max-width: 750px;"
+  >
+</figure>
