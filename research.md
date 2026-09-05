@@ -11,7 +11,17 @@ My research has focused on advancing turbulence theory and modeling, investigati
 
 In global weather and climate models, the exchange of momentum, heat, moisture and carbon dioxide between the Earth’s surface and the atmosphere is constrained by turbulent motion of the air and has been described by a flux-gradient relationship named Monin-Obukhov similarity theory (MOST) since 1954. However, it has long been recognized that MOST cannot correctly capture the turbulent flux transport when the air is significantly cooled or heated by the land surface. A fundamental assumption of MOST is that velocity and temperature near the Earth’s surface do not follow a logarithmic profile due to buoyancy effects. In contrast to MOST, Cheng et al. ([2021, PRF](https://doi.org/10.1103/PhysRevFluids.6.034606)) and Cheng et al. ([2023, PRF](https://doi.org/10.1103/PhysRevFluids.8.114602)) found that buoyancy does not change the logarithmic nature of velocity and temperature profiles but instead modifies the slope of the log law. The proposed log law overcomes the failure of MOST in extreme stability conditions. The proposed logarithmic profile can serve as an alternative to MOST, possibly leading to more realistic predictions of near-surface air temperature, especially in heat waves and droughts, as well as nighttime and winter climate and air quality, especially in polar regions.
 
-
+<figure style="text-align: center; margin: 1.5rem auto;">
+  <img
+    src="/images/temperature-log-law.jpg"
+    alt="Comparison between MOST and the stratification-dependent log law"
+    style="width: 100%; max-width: 750px;"
+  >
+  <figcaption style="margin-top: 0.5rem; color: #666; font-size: 0.9rem;">
+    Buoyancy modifies the slope of the logarithmic profile rather than
+    destroying its logarithmic structure.
+  </figcaption>
+</figure>
 
 ### 1.2 Deep learning and generative AI for subgrid-scale turbulence modeling  
 The large-eddy simulation (LES) technique only resolves filtered eddy motions and parameterizes the impact of subgrid-scale (SGS) turbulence as a function of the resolved flow. Cheng et al. ([2022, JAMES](https://doi.org/10.1029/2021MS002847)) applied supervised deep neural networks (DNNs) to learn SGS stresses from a set of neighboring coarse-grained velocity from direct numerical simulations across stability conditions from near neutral to very unstable in the atmospheric boundary layer. The DNN model can capture both SGS stresses and dissipation, which is challenging for traditional SGS models like the Smagorinsky model.
