@@ -20,6 +20,15 @@ In global weather and climate models, the exchange of momentum, heat, moisture a
 </figure>
 
 
+<figure style="text-align: center; margin: 1.5rem auto;">
+  <img
+    src="/images/velocity-log-law.jpg"
+    alt="Comparison between MOST and the stratification-dependent log law"
+    style="width: 100%; max-width: 750px;"
+  >
+</figure>
+
+
 
 
 
