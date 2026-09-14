@@ -8,7 +8,7 @@ title: Publications
 ## First-Author Journal Articles
 1. **Cheng, Y.**, & McColl, K. (2026).  
    Land radiative management increases heat stress in some humid regions.  
-   *Geophysical Research Letters*, 53(18).
+   *Geophysical Research Letters*, 53(18).  
    [DOI](https://doi.org/10.1029/2026GL125630)  
    
 1. **Cheng, Y.**, & Liu, T. (2026).  
